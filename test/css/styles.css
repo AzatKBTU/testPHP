@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+}
+.reglog {
+  margin-left: 15%;
+  max-width: 70%;
+  text-align: center;
+  border: thick double #32a1ce;
+  padding: 10px;
+}
+button {
+  max-width: 33%;
+}
